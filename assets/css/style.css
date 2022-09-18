@@ -6,7 +6,7 @@
 }
 
 body {
-  background: url('/assets/img/fundo/fundo-nlw.jpg');
+  background: url('../img/fundo/fundo-nlw.jpg');
   background-position: top center; /*top center: deixa o fundo no topo e no centro*/
   background-size: 100%  auto;
   background-repeat: no-repeat;
