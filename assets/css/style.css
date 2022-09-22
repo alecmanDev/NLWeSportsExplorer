@@ -46,10 +46,9 @@ header img {
 }
 
 main {
-  max-width: 580px;
+  max-width: 360px;
   width: 90%;
   margin: 32px auto;
-  margin-top: 32px;
 
   display: grid;
   gap: 24px;
@@ -146,4 +145,15 @@ section ul li:hover {
     transform: translateY(0);
     opacity: 1;
   }
+}
+
+/* Swiper */
+
+section {
+  overflow: hidden;
+  gap: 0;
+}
+
+section ul {
+  flex-wrap: nowrap;
 }
